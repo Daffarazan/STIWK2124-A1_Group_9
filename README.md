@@ -1,3 +1,10 @@
+#GROUP NAME & MEMBERS (Group 9).
+-MUHAMMAD DAFFA RAZAN WIJAYA (303026)
+-HAKIM ATHIR EMIRIO (290862)
+-AZHAR LUTHFI MAULANA (3030246)
+-PASCAL ADIWIDYA (296650)
+
+
 # ARL Backend - Assignment 1 (STIWK2124)
 
 This is the backend implementation for the Accessible Reading List (ARL) web application, built using **Spring Boot** and **MySQL**.
