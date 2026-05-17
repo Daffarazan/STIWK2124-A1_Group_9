@@ -7,13 +7,13 @@ import lombok.Getter;
 
 @Getter @AllArgsConstructor
 public class ErrorResponse {
-    private int status;
-    private List<FieldError> errors;
-    private String path;
+    private final int status;
+    private final List<FieldError> errors;
+    private final String path;
 
     @Getter @AllArgsConstructor
     public static class FieldError {
-        private String field;
-        private String message;
+        private final String field;
+        private final String message;
     }
 }
